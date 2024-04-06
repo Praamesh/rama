@@ -1,4 +1,4 @@
 #!/bin/bash
 python3 -m venv venv
 source venv/bin/activate
-pip install requirement.txt 
+pip install -r requirement.txt 
